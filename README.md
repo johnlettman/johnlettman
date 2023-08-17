@@ -11,7 +11,7 @@ I'm John P. Lettman, a cloud reliability engineer, (very) amateur photographer, 
 I reside in Pennsylvania, United States 🇺🇸 and work remotely. 
 
 <!-- clearfix --->
-<table><tbody><tr><th></th></tr></tbody></table><hr>
+<br clear="both"/><hr>
 
 <div style="display:block">
   <a href="https://github.com/johnlettman/github-stats#gh-dark-mode-only">
