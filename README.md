@@ -1,18 +1,10 @@
 # Hi there 👋
-
-<div>
-    <a href="https://myoctocat.com">
-        <img src="./johnlettman-octocat.png" align="right" width="25%">
-    </a>
-</div>
-
 I'm John P. Lettman, a cloud reliability engineer, (very) amateur photographer, 3D printer, tinkerer, and crazy cat man.
 
 I reside in Pennsylvania, United States 🇺🇸 and work remotely. 
 
 <!-- clearfix --->
-<br clear="both"/><hr>
-
+<br clear="both"/>
 <div>
   <a href="https://github.com/johnlettman/github-stats#gh-dark-mode-only">
     <img src="https://raw.githubusercontent.com/johnlettman/github-stats/master/generated/overview.svg#gh-dark-mode-only"  width="40%" margin="0" padding="0" align="left" alt="John's GitHub Stats" />
