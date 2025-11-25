@@ -1,9 +1,20 @@
-# Hi there 👋
-I'm John Lettman.
+## 👋 Hello there, and thank you for stopping by!
 
-## Stats
-![](https://raw.githubusercontent.com/johnlettman/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/johnlettman/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/johnlettman/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/johnlettman/github-stats/master/generated/languages.svg#gh-light-mode-only)
+I'm John P. Lettman, a developer passionate about geospatial data, embedded systems, robotics, and hardware integration.
+Here you'll find FOSS projects ranging from libraries for LIDAR and sonar hardware to tools for processing OpenStreetMap data.
+
+If you find anything I've made useful, please let me know! It's always awesome to hear that my work can help contribute to someone else's projects. :)
+
+## 🚀 What I'm Working On
+I'm exploring robust, cross-platform solutions for sensor data acquisition.
+At the moment, I love pushing the boundaries of what can be accomplished in resource-constrained environments using Rust.
+
+## 🧰 Tech Stack
+- **Domains**: Embedded Systems, Robotics, Sensors, GIS, Geospatial data, Hardware APIs
+- **Languages**: Rust, Golang, C, C++, Python, TypeScript, JavaScript, and a few others.
+
+## 📫 Get in Touch
+- 📧 [via Email](mailto:john@lettman.com)
+- 🐦 [via Twitter](https://twitter.com/johnlettman)
+- 🌐 [via my website](https://johnlettman.com/)
 
