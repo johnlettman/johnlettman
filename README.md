@@ -28,4 +28,4 @@ At the moment, I love pushing the boundaries of what can be accomplished in reso
 - 🌐 [via my website](https://johnlettman.com/)
 
 ## Other accounts
-@johnlettman-thoron
+- [@johnlettman-thoron](https://github.com/johnlettman-thoron)
